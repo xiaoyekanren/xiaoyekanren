@@ -8,9 +8,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xiaoyekanren&show_icons=true&locale=en&layout=compact" alt="xiaoyekanren" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaoyekanren&show_icons=true&locale=en" alt="xiaoyekanren" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xiaoyekanren&" alt="xiaoyekanren" /></p>
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=xiaoyekanren&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
